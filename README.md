@@ -125,8 +125,7 @@ Key analysis includes:
 - Monthly Net Sales Trend
 - Top 10 Countries by Net Sales
 
-![Executive Overview](images/executive.jpeg)
-
+![Executive Overview](./images/executive.jpeg)
 ---
 
 ## 2. Product Analysis
