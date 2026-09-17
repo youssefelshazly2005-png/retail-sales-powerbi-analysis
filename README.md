@@ -125,7 +125,7 @@ Key analysis includes:
 - Monthly Net Sales Trend
 - Top 10 Countries by Net Sales
 
-![Executive Overview](https://raw.githubusercontent.com/youssefelshazly2005-png/retail-sales-powerbi-analysis/main/images/executive.jpeg)
+![Executive Overview](images/exective.jpeg)
 ---
 
 ## 2. Product Analysis
